@@ -1,3 +1,4 @@
+#Python 2.7.1
 # to use further fuctions, it's :
 #98 to reset the code
 #99 to reset the lists
